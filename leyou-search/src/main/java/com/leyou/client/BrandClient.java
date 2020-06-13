@@ -12,4 +12,5 @@ import org.springframework.cloud.openfeign.FeignClient;
 public interface BrandClient extends BrandApi {
 //更新
     //更新1
+
 }
